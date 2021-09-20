@@ -1,0 +1,21 @@
+Conflicting files
+.vs/GEC_Intern_WebTraining/config/applicationhost.config
+.vs/GEC_Intern_WebTraining/v16/.suo
+GEC_Intern_WebTraining/App_Start/UnityConfig.cs
+GEC_Intern_WebTraining/Controllers/HomeController.cs
+GEC_Intern_WebTraining/GEC_Intern_WebTraining.csproj
+GEC_Intern_WebTraining/GEC_Intern_WebTraining.csproj.user
+GEC_Intern_WebTraining/Models/Category.cs
+GEC_Intern_WebTraining/Views/Home/Index.cshtml
+GEC_Intern_WebTraining/Views/Shared/_Layout.cshtml
+GEC_Intern_WebTraining/Web.config
+GEC_Intern_WebTraining/bin/GEC_Intern_WebTraining.dll
+GEC_Intern_WebTraining/bin/GEC_Intern_WebTraining.dll.config
+GEC_Intern_WebTraining/bin/GEC_Intern_WebTraining.pdb
+GEC_Intern_WebTraining/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.csproj.AssemblyReference.cache
+GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.csproj.CoreCompileInputs.cache
+GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.csproj.FileListAbsolute.txt
+GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.dll
+GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.pdb
+GEC_Intern_WebTraining/packages.config
