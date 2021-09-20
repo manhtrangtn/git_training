@@ -22,3 +22,4 @@ GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.pdb
 GEC_Intern_WebTraining/packages.config
 Cường đã edit file này
 Cường edit version 2
+333333333333
