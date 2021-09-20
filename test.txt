@@ -1,4 +1,5 @@
-Conflicting files
+xxxxxxxxxxxxxxxxxxConflicting files
+xxxxxxxxxxxConflicting files
 .vs/GEC_Intern_WebTraining/config/applicationhost.config
 .vs/GEC_Intern_WebTraining/v16/.suo
 GEC_Intern_WebTraining/App_Start/UnityConfig.cs
@@ -19,3 +20,4 @@ GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.csproj.FileListAbsolute.
 GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.dll
 GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.pdb
 GEC_Intern_WebTraining/packages.config
+Cường đã edit file này
