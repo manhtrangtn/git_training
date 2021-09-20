@@ -20,3 +20,4 @@ GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.dll
 GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.pdb
 GEC_Intern_WebTraining/packages.config
 Cường đã edit file này
+Đức đã đi qua đây
