@@ -1,3 +1,4 @@
+xxxxxxxxxxxxxxxxxxConflicting files
 xxxxxxxxxxxConflicting files
 .vs/GEC_Intern_WebTraining/config/applicationhost.config
 .vs/GEC_Intern_WebTraining/v16/.suo
