@@ -3,6 +3,7 @@ DucVAHE140108DucVAHE140108DucVAHE140108DucVAHE140108DucVAHE140108DucVAHE140108Du
 
 Manhcuong3008Manhcuong3008Manhcuong3008Manhcuong3008Manhcuong3008Manhcuong3008Manhcuong3008Manhcuong3008
 
-Cường đã thay đổi thông tin file này 
-Cường edit version 2
+Edit contents file test1
+
+edit version 2
 
