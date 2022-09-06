@@ -26,6 +26,8 @@ Heloooooooooooooooooooooooooooooo
 -fast-forward)
 error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
 error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
+Mau đỏ này ok chưa bạn?
 error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
 error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
+Đã sửa chính tả.
 error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'
