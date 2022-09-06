@@ -1,9 +1,18 @@
-Cường đã thay đổi thông tin file này 
-Cường edit version 2
-Kim JiSoo
-Cristiano Ronaldo
-Eminem
-Chris Hemsworth
-Kim Jong Kook
-Portgas D. Ace
-Son Goku
+    -M                    move/rename a branch, even if target exists
+    -c, --copy            copy a branch and its reflog
+    -C                    copy a branch, even if target exists
+    -l, --list            list branch names
+    --show-current        show current branch name
+    --create-reflog       create the branch's reflog
+    --edit-description    edit the description for the branch
+    -f, --force           force creation, move/rename, deletion
+    --merged <commit>     print only branches that are merged
+    --no-merged <commit>  print only branches that are not merged
+    --column[=<style>]    list branches in columns
+    --sort <key>          field name to sort on
+    --points-at <object>  print only branches of the object
+    -i, --ignore-case     sorting and filtering are case insensitive
+    --format <format>     format to use for the output
+
+ ~/Documents/DevZone/TRAINING/dotNet Training/git_training   training_1                                                                           SIGHUP(1) ↵  4581  22:05:33
+ $ git checkout -b master
