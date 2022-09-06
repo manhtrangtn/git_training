@@ -22,3 +22,10 @@ GEC_Intern_WebTraining/obj/Debug/GEC_Intern_WebTraining.pdb
 GEC_Intern_WebTraining/packages.config
 Cường đã edit file này
 Trang edit version 2
+Heloooooooooooooooooooooooooooooo
+-fast-forward)
+error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
+error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
+error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
+error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'-fast-forward)
+error: failed to push some refs to 'https://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@github.com/manhtrangtn/git_training.git'
